@@ -11,5 +11,5 @@
 ![Page 11](Report/作品集1_Amazon數據分析-page-011.jpg)
 ![Page 12](Report/作品集1_Amazon數據分析-page-012.jpg)
 ![Page 13](Report/作品集1_Amazon數據分析-page-013.jpg)
-![Page 14](Report/作品集1_Amazon數據分析-page-014x.jpg)
+![Page 14](Report/作品集1_Amazon數據分析-page-014.jpg)
 
